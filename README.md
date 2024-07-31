@@ -1,3 +1,6 @@
+Check releases for the compiled jar. 
+
+
 # PluginUpdater
 PluginUpdater is a simple plugin to handle checking versions and automatically downloading plugin files from Modrinth, Spigot, Hangar and GitHub Releases. All updates and checks are ran asynchronously at a rate of 1 check/download per second.
 
